@@ -1,5 +1,7 @@
 # WCP (White Cat Protocol) - Çekirdek Protokol Kütüphanesi (wcp-core) 🐾
 
+# 🔴 **6/30/2025**
+
 **Özet**
 
 Bu belge, `wcp-core` adlı Rust protokol kütüphanesinin geliştirme vizyonunu, felsefesini ve teknik hedeflerini özetlemektedir. Proje, dijital iletişimde kullanıcı özerkliği, mahremiyeti ve güvenliğini temelden ele alan, modern kriptografi, proaktif gizlilik teknikleri ve kuantum sonrası kriptografiye hazırlık gibi konulara odaklanan bir altyapı oluşturmayı amaçlamaktadır. Geliştirme, ismini aldığı "**Beyaz Kedi**"ye ithafen büyük bir titizlikle yürütülmektedir.
