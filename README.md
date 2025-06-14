@@ -1,7 +1,5 @@
 # WCP (White Cat Protocol) - Core Protocol Library (wcp-core) 🐾
 
-# 🔴 **6/30/2025**
-
 **Summary**
 
 This document summarizes the development vision, philosophy, and technical goals of the Rust protocol library named `wcp-core`. The project aims to build an infrastructure that fundamentally addresses user autonomy, privacy, and security in digital communication, focusing on modern cryptography, proactive privacy techniques, and preparation for post-quantum cryptography. The development is conducted with great care, inspired by its namesake "**White Cat**."
